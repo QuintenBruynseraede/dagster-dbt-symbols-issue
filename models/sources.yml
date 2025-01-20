@@ -1,0 +1,6 @@
+sources:
+  - name: test_source
+    database: "DB"
+    schema: "SCHEMA"
+    tables:
+      - name: table_with_dollarsign_$
